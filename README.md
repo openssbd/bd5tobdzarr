@@ -1,7 +1,10 @@
 # bd5tobdzarr
-Converter from BD5 to BD-Zarr
 
 prototype implementation of the BD5 to BD-Zarr converter
+
+## Requirements
+
+[ome-ngff-tables-prototype](https://github.com/kevinyamauchi/ome-ngff-tables-prototype) is required.
 
 ## Usage
 
