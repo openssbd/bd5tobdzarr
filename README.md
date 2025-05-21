@@ -8,4 +8,4 @@ prototype implementation of the BD5 to BD-Zarr converter
 
 ## Usage
 
-`% python bd5tozarr input_bd5.h5 output.zarr`
+`% python bd5tobdzarr input_bd5.h5 output.zarr`
