@@ -1,7 +1,7 @@
 import sys
 
 if len(sys.argv) != 3:
-    print("Usage: python bd52zarr.py input_file.h5 output_file.zarr")
+    print("Usage: python bd5tobdzarr.py input_file.h5 output_file.zarr")
     sys.exit(1)
 
 import ome_zarr
