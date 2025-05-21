@@ -9,3 +9,5 @@ prototype implementation of the BD5 to BD-Zarr converter
 ## Usage
 
 `% python bd5tobdzarr.py input_bd5.h5 output.zarr`
+
+081505_L1_bd5.h5 is a sample file of BD5 file (https://ssbd.riken.jp/database/dataset/1/).
